@@ -1,4 +1,6 @@
 # 모이소
+![image](https://user-images.githubusercontent.com/79959576/173993275-f6860fa8-71bf-4b36-a166-64a483637d73.png)
+
 ---
 개발 스터디를 하고 싶은데 어디서 찾을까?
 
